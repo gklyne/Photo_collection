@@ -1,9 +1,0 @@
-{
-  "annal:type_id": "_entitytypedata",
-  "annal:id": "Location_notes_old",
-  "@id": "./",
-  "@type": [
-    "annal:Type_Data"
-  ],
-  "annal:type": "annal:Type_Data"
-}
