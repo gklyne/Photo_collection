@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "Keywords",
+  "rdfs:comment": "Zero, one or more key words or phrases.",
+  "annal:field_ref_field": "",
+  "annal:group_ref": "_group/Keyword_repeat",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(Key words or phrases)",
+  "annal:property_uri": "pcat:keyword_repeat",
+  "annal:field_ref_type": "",
+  "annal:field_entity_type": "",
+  "@id": "./",
+  "annal:repeat_label_delete": "Remove Keyword",
+  "annal:field_ref_restriction": "",
+  "annal:field_placement": "small:0,12",
+  "annal:repeat_label_add": "Add Keyword",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Field_group",
+  "annal:field_value_mode": "Enum_value_mode/Value_direct",
+  "annal:field_render_type": "Enum_render_type/RepeatGroupRow",
+  "annal:id": "Keyword_repeat",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

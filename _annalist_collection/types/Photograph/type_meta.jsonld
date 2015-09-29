@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Photograph",
+  "rdfs:comment": "Details about a photograph in the catalogue",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "pcat:Photograph",
+  "annal:type_list": "_list/Photograph",
+  "annal:id": "Photograph",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Photograph"
+}

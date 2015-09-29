@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "Map reference",
+  "rdfs:comment": "OS grid reference or geo coordinates for location.\r\n\r\nOS map reference is in the form `AA eee nnn`, where \"AA\" is two letters, and \"eee\" and \"nnn\" are triple-digit Eastings and Northings respectively.\r\n\r\nGeo coordinates are in the form `geo:coord-a,coord-b`, where `coord-a` and `coord-b` are positive or negative real numbers representing the latitude and longitude of the current location.\r\n\r\nSee also:\r\n\r\n* [Wikipedia on OS map references](https://en.wikipedia.org/wiki/Grid_reference).\r\n* [geo URI scheme specification](http://tools.ietf.org/html/rfc5870), especially [section 3](http://tools.ietf.org/html/rfc5870#section-3).",
+  "annal:group_ref": "",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(Map reference - OS grid reference 'AAeeennn' or 'geo:lat,long' URI)",
+  "annal:property_uri": "pcat:location_mapref",
+  "annal:field_ref_type": "",
+  "annal:field_entity_type": "",
+  "@id": "./",
+  "annal:repeat_label_delete": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_placement": "small:0,12",
+  "annal:repeat_label_add": "",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Text",
+  "annal:field_value_mode": "Enum_value_mode/Value_direct",
+  "annal:field_render_type": "Enum_render_type/Text",
+  "annal:field_ref_field": "",
+  "annal:id": "Location_mapref",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

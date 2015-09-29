@@ -1,0 +1,36 @@
+{
+  "pcat:location_notes_ref": "Location_notes/Sileby_mill",
+  "rdfs:label": "20150501-1644-032.jpg Soar/Sileby/Bridge",
+  "rdfs:comment": "Bridge over weir stream at Sileby Mill on the River Soar\r\n\r\n2015/20150501-1644-032.jpg\r\n",
+  "pcat:keyword_repeat": [
+    {
+      "pcat:keyword": "Landscape"
+    },
+    {
+      "pcat:keyword": "River Soar"
+    },
+    {
+      "pcat:keyword": "Sileby Mill"
+    },
+    {
+      "pcat:keyword": "Leicestershire"
+    }
+  ],
+  "pcat:date_taken": "2015-05-01",
+  "annal:type_id": "Photograph",
+  "pcat:image": {
+    "upload_name": "Image",
+    "uploaded_size": 721278,
+    "resource_name": "Image.jpg",
+    "uploaded_file": "20150501-1644-032.jpg",
+    "resource_type": "image/jpeg"
+  },
+  "pcat:location_taken": "Location_notes/Sileby_mill",
+  "annal:id": "20150501_1644_032",
+  "@id": "./",
+  "@type": [
+    "pcat:Photograph",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

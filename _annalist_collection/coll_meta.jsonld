@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Catalogue of photographs and associated entities",
+  "rdfs:comment": "",
+  "annal:software_version": "0.1.18",
+  "annal:type_id": "_collection",
+  "annal:default_list": "Photograph",
+  "annal:id": "Photo_collection",
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:type": "annal:Collection"
+}

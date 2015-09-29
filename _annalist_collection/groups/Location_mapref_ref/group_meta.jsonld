@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Reference field 'Map reference'",
+  "rdfs:comment": "Reference field 'Map reference'",
+  "annal:id": "Location_mapref_ref",
+  "annal:type_id": "_group",
+  "annal:record_type": "",
+  "annal:uri": "annal:group/_initial_values",
+  "annal:group_fields": [
+    {
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "_field/Location_mapref"
+    }
+  ],
+  "annal:add_field": true,
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}
