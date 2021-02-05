@@ -1,0 +1,31 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Location_mapref",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "Location_mapref",
+  "annal:placeholder": "(Map reference - OS grid reference 'AAeeennn' or 'geo:lat,long' URI)",
+  "annal:property_uri": "pcat:location_mapref",
+  "annal:repeat_label_add": "",
+  "annal:repeat_label_delete": "",
+  "annal:tooltip": "OS grid reference or geo coordinates for location.\r\n\r\nOS map reference is in the form `AA eee nnn`, where \"AA\" is two letters, and \"eee\" and \"nnn\" are triple-digit Eastings and Northings respectively.\r\n\r\nGeo coordinates are in the form `geo:coord-a,coord-b`, where `coord-a` and `coord-b` are positive or negative real numbers representing the latitude and longitude of the current location.\r\n\r\nSee also:\r\n\r\n* [Wikipedia on OS map references](https://en.wikipedia.org/wiki/Grid_reference).\r\n* [geo URI scheme specification](http://tools.ietf.org/html/rfc5870), especially [section 3](http://tools.ietf.org/html/rfc5870#section-3).",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Map reference\r\n\r\nOS grid reference or geo coordinates for location.\r\n\r\nOS map reference is in the form `AA eee nnn`, where \"AA\" is two letters, and \"eee\" and \"nnn\" are triple-digit Eastings and Northings respectively.\r\n\r\nGeo coordinates are in the form `geo:coord-a,coord-b`, where `coord-a` and `coord-b` are positive or negative real numbers representing the latitude and longitude of the current location.\r\n\r\nSee also:\r\n\r\n* [Wikipedia on OS map references](https://en.wikipedia.org/wiki/Grid_reference).\r\n* [geo URI scheme specification](http://tools.ietf.org/html/rfc5870), especially [section 3](http://tools.ietf.org/html/rfc5870#section-3).",
+  "rdfs:label": "Map reference"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Location_mapref_ref",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [
+    {
+      "annal:field_id": "_field/Location_mapref",
+      "annal:field_placement": "small:0,12"
+    }
+  ],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "_type/Default_type",
+  "annal:field_render_type": "_enum_render_type/RefMultifield",
+  "annal:field_value_mode": "_enum_value_mode/Value_entity",
+  "annal:field_value_type": "annal:Slug",
+  "annal:id": "Location_mapref_ref",
+  "annal:placeholder": "(Reference field Map reference)",
+  "annal:property_uri": "pcat:location_mapref_ref",
+  "annal:repeat_label_add": "",
+  "annal:repeat_label_delete": "",
+  "annal:tooltip": "Reference field 'Map reference'",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Reference field 'Map reference'\r\n\r\nReference field 'Map reference'",
+  "rdfs:label": "Reference field 'Map reference'"
+}

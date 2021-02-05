@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "./"
+    },
+    "coll_context.jsonld"
+  ],
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:default_list": "Photograph",
+  "annal:id": "Photo_collection",
+  "annal:inherit_from": "",
+  "annal:meta_comment": "",
+  "annal:software_version": "0.1.33",
+  "annal:type": "annal:Collection",
+  "annal:type_id": "_coll",
+  "rdfs:comment": "Tutorial example: Photo catalogue",
+  "rdfs:label": "Tutorial example: Photo catalogue"
+}

@@ -1,7 +1,26 @@
 {
-  "pcat:location_notes_ref": "Location_notes/Sileby_mill",
-  "rdfs:label": "20150501-1645-033.jpg Soar/Sileby/Weir stream",
-  "rdfs:comment": "Bridge over weir stream at Sileby Mill lock on the River Soar, between Mountsorrel and Leicester.\r\n\r\n20150501-1645-033.jpg\r\n",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Photograph/20150501_1645_033",
+  "@type": [
+    "pcat:Photograph",
+    "annal:EntityData"
+  ],
+  "annal:id": "20150501_1645_033",
+  "annal:type": "pcat:Photograph",
+  "annal:type_id": "Photograph",
+  "pcat:date_taken": "2015-05-01",
+  "pcat:image": {
+    "resource_name": "Image.jpg",
+    "resource_type": "image/jpeg",
+    "upload_name": "Image",
+    "uploaded_file": "20150501-1645-033.jpg",
+    "uploaded_size": 824061
+  },
   "pcat:keyword_repeat": [
     {
       "pcat:keyword": "Landscape"
@@ -16,21 +35,8 @@
       "pcat:keyword": "Leicestershire"
     }
   ],
-  "pcat:date_taken": "2015-05-01",
-  "annal:type_id": "Photograph",
-  "pcat:image": {
-    "upload_name": "Image",
-    "uploaded_size": 824061,
-    "resource_name": "Image.jpg",
-    "uploaded_file": "20150501-1645-033.jpg",
-    "resource_type": "image/jpeg"
-  },
-  "pcat:location_taken": "Location_notes/SK 593 147 (Sileby Mill)",
-  "annal:id": "20150501_1645_033",
-  "@id": "./",
-  "@type": [
-    "pcat:Photograph",
-    "annal:EntityData"
-  ],
-  "annal:type": "annal:EntityData"
+  "pcat:location_notes_ref": "Location_notes/Sileby_mill",
+  "pcat:location_taken": "Location_notes/Sileby_mill",
+  "rdfs:comment": "Bridge over weir stream at Sileby Mill lock on the River Soar, between Mountsorrel and Leicester.\r\n\r\n20150501-1645-033.jpg\r\n",
+  "rdfs:label": "20150501-1645-033.jpg Soar/Sileby/Weir stream"
 }
